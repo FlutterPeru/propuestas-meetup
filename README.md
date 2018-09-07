@@ -3,8 +3,8 @@
 
 Participa como Speaker en los meetups de Flutter Perú:
 
-- Registra un issue como tema.
-- Usa los labels workshop, talk.
+ - Registra un issue como tema.
+ - Usa los labels workshop, talk.
 
 ## Propuestas de charlas para los meetups
 
@@ -13,8 +13,8 @@ Este repo tiene como propósito proponer temas para los meetups. Al mismo tiempo
 
 Para realizar una propuesta, seguir los siguientes pasos:
 
-. Registrar un https://github.com/FlutterPeru/propuestas-meetup/issues con el tópico y una descripción .
-. Asignar label `workshop`, `talk` .
+ - Registrar un https://github.com/FlutterPeru/propuestas-meetup/issues con el tópico y una descripción .
+ - Asignar label `workshop`, `talk` .
 
 
 ## Links
